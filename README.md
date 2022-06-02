@@ -20,6 +20,6 @@ In order to sart discovering FM synthesis thanks to Dragonball FM, you need to f
 - Open and run in sequence **main.sc** and **arduino.sc** files in SuperCollider. The connection between the board and the SC code happens in **arduino.sc** together with the OSC communication between SC and Processing, while **main.sc** contains all the infos regarding the final output sounds. 
 - **!! IMPORTANT !!** In order not to have troubles concerning the link between SC and Processing, remeber to check and insert the correct **IP address** and the corresponding port, both in the Processing and SC codes.
 - Open **GUI_tot.pde** file into **Processing** platform and wait for the GUI to load
-- ***Discover FM synthesis having fun, thanks to DragonBall FM!! ***
+- ***Discover FM synthesis having fun, thanks to DragonBall FM!!***
 
 
